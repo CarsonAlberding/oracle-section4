@@ -4,18 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36a6912f-6a31-45d8-aa07-41ff6957da4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculatorTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculatorTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tip01.java" afterDir="false" />
+    <list default="true" id="36a6912f-6a31-45d8-aa07-41ff6957da4e" name="Changes" comment="commit 1">
+      <change afterPath="$PROJECT_DIR$/src/AddImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComputeBMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComputeMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlipCoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NameMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RockPaperScissor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,16 +35,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,6 +54,14 @@
       <option name="presentableId" value="Default" />
       <updated>1660748266293</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit 1">
+      <created>1660751326660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660751326660</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,5 +77,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 1" />
   </component>
 </project>

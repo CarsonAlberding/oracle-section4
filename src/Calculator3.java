@@ -7,4 +7,5 @@ public class Calculator3 {
         System.out.println(name+": $" +total);
 
     }
+
 }
